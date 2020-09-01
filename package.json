@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "lint": "eslint main.ts --ext .ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^4.0.1",
+    "eslint": "^7.8.0",
+    "eslint-plugin-jsdoc": "^30.3.0",
+    "typescript": "^4.0.2"
+  }
+}
